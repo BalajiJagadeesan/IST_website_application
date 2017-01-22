@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="gibsonServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bxj9142/www/cleanJQuery" local="$PROJECT_DIR$" web="/cleanJQuery" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

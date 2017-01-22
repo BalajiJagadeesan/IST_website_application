@@ -1,0 +1,23 @@
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.Cache
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.Home.resources
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\Project3.exe
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\Project3.pdb
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\Newtonsoft.Json.dll
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\RESTUtil.dll
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\Newtonsoft.Json.xml
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\RESTUtil.pdb
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.exe
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.pdb
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\MetroFramework.dll
+C:\Data\Client Design\Project3\Project3\Project3\bin\Debug\MetroFramework.Fonts.dll
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.UnderGraduate.resources
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.GraduateDegree.resources
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.MinorDetails.resources
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.CourseDetail.resources
+C:\Data\Client Design\Project3\Project3\Project3\obj\Debug\Project3.PeopleDetails.resources
+C:\Users\bajji\Desktop\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\bajji\Desktop\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\bajji\Desktop\Project3\Project3\obj\Debug\Project3.pdb
