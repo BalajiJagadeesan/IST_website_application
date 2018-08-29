@@ -3,8 +3,6 @@
  */
 Project 2-JQuery :
 
-The project is available in the following URL : "https://people.rit.edu/bxj9142/cleanJQuery/"
-
 Overview:
 	Created a near clone of our RIT IST dept website with following content with own styling
 		-> About section
